@@ -1,5 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star sports 1 hd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English;Sports",Star sports 1 HD
+http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="English;Sports",Star sports 1 HD New
+http://tv.pmcon.net/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sony Six HD
+http://209.126.120.151/hls/ten1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sony Six HD
+http://212.224.98.206:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sony Six HD
+http://180.210.191.2/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",DD Sports
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/43599.ts
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sky Sports
+http://sozare.com:80/live/fahim9555/280A30559862/155928.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sun tv tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",KTV tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sun music tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Adithya
+http://pn.tvott.info:80/live/307271135111/307271135111/83968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star vijay tv
+http://pn.tvott.info:80/live/307271135111/307271135111/83951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Colors tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Jaya tv
+http://pn.tvott.info:80/live/307271135111/307271135111/83960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Raj tV
+http://pn.tvott.info:80/live/307271135111/307271135111/83953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Raj music
+http://pn.tvott.info:80/live/307271135111/307271135111/83954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Tata sky tamil cinema
+http://pn.tvott.info:80/live/307271135111/307271135111/83946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Vasanth tv
+http://pn.tvott.info:80/live/307271135111/307271135111/83945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Vijay super
+http://pn.tvott.info:80/live/307271135111/307271135111/83944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sun news
+http://pn.tvott.info:80/live/307271135111/307271135111/83948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sun life
+http://pn.tvott.info:80/live/307271135111/307271135111/83950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",BBC earth tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",National geo tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Geo wild tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",History tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Fox life
+http://pn.tvott.info:80/live/307271135111/307271135111/83962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Discovery tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Dd tamil
+http://pn.tvott.info:80/live/307271135111/307271135111/83964.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star sports 1 hd Hindi
 http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star sports 2 hd
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
@@ -13,23 +76,36 @@ http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sports",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-Sony six
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony six
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8
-Sony ten 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony ten 2
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8
-PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",PTV SPORTS
 http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=Rk
-SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",SKY SPORTS CRICKET
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
-SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",SKY SPORTS CRICKET
 http://185.180.15.13:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RK
-SONY TEN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",SONY TEN 2
 http://199.66.95.242:80/3/3094/index.m3u8?token=test
-SONY TEN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",SONY TEN 2
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-BEIN SPORTS 3 EN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",BEIN SPORTS 3 EN
 http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
 
+
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",WB Kids
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626805320/ei/6L_2YPSFI87Kz7sP-92Q8Ag/ip/49.205.83.54/id/braVWtZNnsc.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP3jkj-UY9Gp99FQAVgktsLRKjdxs0DATORzQd1ZoA0uAiB3u3qYdh1eshzgFcBWRNgj9AtUUN-qwf4E4pNIE1sFpw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",NASA Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626805776/ei/sMH2YK7iB8ix3LUP-Z29kAQ/ip/49.205.83.54/id/21X5lGlDOfg.4/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOjJ780XByxgqSSpquJj2tNRXdAg3lNFR2_Q6CBrnEwJAiBoTtEbkVu9PjYBowz0ZFDwfct71vLDmOF7JpZ6_yofAw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Colors Infinity HD
+http://212.224.98.206:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Comedy Central HD
+http://212.224.98.206:2200/R-EX/ENGLISH_COMEDY_CENTRAL-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="English;Movies",Paramount Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="CineLifeHD.us" tvg-name="CineLife HD" tvg-country="US" tvg-language="English" tvg-logo="https://i.vimeocdn.com/portrait/34728299_120x120.jpg" group-title="",CineLife HD
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star vijay
 http://212.224.98.212:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=RK
@@ -61,26 +137,38 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 http://212.224.98.206:2200/R-EX/TAMIL_JAYA_TV_HD-in/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-id="Kalaignar.in" tvg-name="Kalaignar" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="",Kalaignar (576p)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Vijay Super
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sun Music
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Vijay Music
+http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-name="Street Music 4U" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="Music",Street Music 4U
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Polimer News
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",News 7 Tamil
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Puthiya Thalaimurai
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="News18Tamil.in" tvg-name="News 18 Tamil" tvg-country="IN" tvg-language="" tvg-logo="" group-title="News",News 18 Tamil
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="S" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="Malaimurasu.in" tvg-name="Malaimurasu" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/uFiHtQX.png" group-title="News",Malaimurasu (480p) [Not 24/7]
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",PuthiyaThalaimurai Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626802765/ei/7bX2YNe4NrDu4-EP_62voAQ/ip/49.205.83.54/id/JddGlT64N2s.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfpQ0ce8Vtq7JcNcgZUOALeqkPRn8aFEVW9vASMvowToCIF-0Gha2ODrso5h2XpQC5Q3D0owfbgXYrlPGMMUupsYO/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sun News Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626802955/ei/q7b2YJ3FKJnv4-EPzeemgAs/ip/49.205.83.54/id/xnk9g38W_5w.2/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWo6f1Y5CDE-MhflMYPeS1xf-eIIIkOc9vp5mgqe7WrUCIGPSNleH9b25ghdA5-JHZ9Npu0jxoxJm8uwFsW29EBPI/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",News7 Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804131/ei/Q7v2YNiSEcTb4-EP5paqkA0/ip/49.205.83.54/id/TMfu5l9ey_Y.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKvkPFcv9yQtvL2O2ZB5R4oJwNAYk_72tsMGPMgHL6bmAiEAxIPgML6ABHks19sairMq1D4czAbH7Y2O6RKYpQcUnGU%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",News18 TamilNadu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804220/ei/m7v2YJj0Oq_i4-EP1OmjmAg/ip/49.205.83.54/id/EZy0RAxG8OI.2/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ1OqagRdV2cVzVZctIVR6eEgfZ_2pnN1aiiTvVNehpoCIFRslniX0bSZ49xz9L0SyNhwzX7PsZitiuDZBn-yC_AO/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Polimer News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804292/ei/5Lv2YN_yMYXk4-EPwZO8mAM/ip/49.205.83.54/id/yKMT5aJl7yI.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJUU9J9shxoxd_nw6369nTlD5Z1aZo42VlLI-blfB6otAiEA5X4FcH1wxdcFFgvk__TKJKrFpx5L22zvziqTT1_1yRI%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Malaimurasu News
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sathiyam TV
-http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Thanthi Tv Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804619/ei/K732YKSeJ4Xk4-EPwZO8mAM/ip/49.205.83.54/id/AkrjDrGFyso.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgN9CM-vbdZ4pmeUfEJelojf4-JtIiiCFbHCYw-jnCk9sCIQC1crSXr4pfn7f8F0CUDd3l8p2hpxp9YR3Fsj7Kuwxf0w%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",News J Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804691/ei/c732YMqTNKD64-EPusG2-AY/ip/49.205.83.54/id/VvpiuTYzzm0.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcJroDGlgi_yzXZL8UbQNpyAqo13HcHsONTaZNs-zr0ICIQDzGF89GcmYQ9dzVAmlLfHlCrFLmE1vXAH6SFxwLTxEIA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Captain News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804777/ei/yb32YMjKI-m9juMPltKTiAM/ip/49.205.83.54/id/vf5mDKMiDb0.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM2cn4nuZfvKznwf4nQugydQaqeF3StnbNSwGcMsFviAAiEA3bbe6rbeeYtaKuQNJgsvMf-BWInGy6HLnR4If5or2k8%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Sathiyam News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626804843/ei/C772YO6WCvub4-EPifywuAQ/ip/49.205.83.54/id/Xv7vRBVb1dM.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK7EmYc0Z6OAdc1J9QstvrlY3rPSRqdAsSZ7tcBTVH4YAiBXltP7CqzFiiqgyLueBlEjw_EuZQAQHpFKpPQPJnEyew%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Velicham Tv
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="",MK Six (576p)
@@ -150,25 +238,14 @@ http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.in" tvg-name="Sony Movies" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="Movies",Sony Movies
 http://51.52.156.22:8888/http/009
-
-
-#EXTINF:-1 tvg-id="DesiBeatsHD.in" tvg-name="Desi Beats HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Desi Beats HD (720p)
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",& PICTURES HD
-http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",& TV HD
-http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",MTV HD
-http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",MTV BEATS HD
-http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Colors HD
-http://212.102.60.40:2200/EX/Colors-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Mtv hd
-http://212.224.98.209:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",& pictures HD
-http://212.102.60.40:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RK
-
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Nature Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626805870/ei/DsL2YKOUJtG0z7sP1MyemAM/ip/49.205.83.54/id/2CD9aEjFZwU.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIIBRD8jYh9ff9RkCMxBqEnLbqfgkhLw1nxYY-s2fXrMCIQCGqmxy89fZXoBp1YFvlQ-BjbsVxNLvXVeB5qLV9bWlaw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English;Movies",Underwater Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626805936/ei/UML2YNm2FNiez7sP8rGW6A4/ip/49.205.83.54/id/L2D_TgED798.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMJMFW7DfNoub6lIN8Zbw4zEhxkeKgeafoPHI5WIcAmrAiBM11AUDXiHoRyHjBGqS1Ye4L3DZBLFrMadizjYf3XxDg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English;Movies",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="International;Infotainment",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 
 
