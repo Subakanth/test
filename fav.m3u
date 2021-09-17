@@ -16,6 +16,24 @@ http://sozare.com:80/live/fahim9555/280A30559862/155928.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English;Movies",Fox 501 HD
 http://sozare.com:80/live/fahim9555/280A30559862/155929.m3u8
 
+
+#EXTINF:-1  group-title="Sneh Tamil" tvg-logo="N/A",Adithya TV
+http://watchindia.net:8880/live/60275/20486/855.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622185610_aathiya.png" group-title="CLOUD TAMIL Satellite Channel" , Adithya TV 
+http://uk1.zecast.com:1935/star-live/adithya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622186574_colors tamil.png" group-title="CLOUD TAMIL Satellite Channel" , Colors Tamil
+http://uk1.zecast.com:1935/star-live/colours/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622186279_sun music.png" group-title="CLOUD TAMIL Music" , Sun Music
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622186157_vijay super.png" group-title="CLOUD TAMIL Satellite Channel" , Star Vijay Super
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay tv.png" group-title="CLOUD TAMIL Satellite Channel" , Vijay tv HD
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622185695_ktv.png" group-title="CLOUD TAMIL Satellite Channel" , K TV HD
+http://212.102.60.40:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622185413_sun tv.png" group-title="CLOUD TAMIL Satellite Channel" , Sun TV
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sun tv tamil
 http://pn.tvott.info:80/live/307271135111/307271135111/83947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",KTV tamil
