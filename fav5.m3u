@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="##### HINDI - GENERAL #####" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_india.png" group-title="AS | HINDI",##### HINDI - GENERAL #####
 http://procdn.cz:80/F29F11578913/A13FFF046C44/72133
-#EXTINF:-1 tvg-id="" tvg-name="HINDI - CORONA VIRUS INFO" tvg-logo="http://logo.panel.cx/logo/corona.png" group-title="AS | HINDI",HINDI - CORONA VIRUS INFO
+#EXTINF:-1 tvg-id="" tvg-name="HINDI - CORONA VIRUS INFO"  tvg-logo="http://logo.panel.cx/logo/corona.png" group-title="AS | HINDI",HINDI - CORONA VIRUS INFO
 http://procdn.cz:80/F29F11578913/A13FFF046C44/83150
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DESI PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/INDIA/DESI-CHANNEL.png" group-title="AS | HINDI",HINDI - DESI PLUS
 http://procdn.cz:80/F29F11578913/A13FFF046C44/72134
