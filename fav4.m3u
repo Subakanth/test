@@ -1,5 +1,4 @@
-#EXTM3U url-tvg=""
-
+#EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="Star Vijay HD" tvg-logo="" group-title="Tamil",Star Vijay HD
 http://58.27.219.166:8000/play/a0ds
 #EXTINF:-1 tvg-id="SunTvHD.in" tvg-name="Sun TV HD" tvg-logo="" group-title="Tamil",Sun TV HD
