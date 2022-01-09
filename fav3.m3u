@@ -1,5 +1,76 @@
-#EXTM3U
+#EXTM3U url-tvg=""
+
 #EXTINF:-1,Sun TV HD
 http://195.201.82.32:5001/play/a01o
+#EXTINF:-1, K TV HD
+http://195.201.82.32:5001/play/a01q
 #EXTINF:-1,Sun Music HD
 http://195.201.82.32:5001/play/a01p
+#EXTINF:-1,Zee Tamil HD
+http://195.201.82.32:5001/play/a01k
+#EXTINF:-1,Colors Tamil HD
+http://195.201.82.32:5001/play/a01v
+#EXTINF:-1,Jaya TV HD
+http://195.201.82.32:5001/play/a01m
+#EXTINF:-1,Adithya
+http://procdn.cz:80/F29F11578913/A13FFF046C44/72097
+
+#EXTINF:-1,Sony SIX HD
+http://195.201.82.32:5001/play/a030
+#EXTINF:-1,Sony TEN 1 HD
+http://195.201.82.32:5001/play/a031
+#EXTINF:-1,Sony TEN 3 HD
+http://195.201.82.32:5001/play/a038
+
+#EXTINF:-1,Nick HD+
+http://195.201.82.32:5001/play/a033
+#EXTINF:-1,CN HD+
+http://195.201.82.32:5001/play/a03d
+
+#EXTINF:-1,MTV Beats HD
+http://195.201.82.32:5001/play/a03e
+
+#EXTINF:-1,&Flix HD
+http://195.201.82.32:5001/play/a001
+#EXTINF:-1,Star World HD
+http://195.201.82.32:5001/play/a002
+#EXTINF:-1,Star Movies HD
+http://195.201.82.32:5001/play/a003
+#EXTINF:-1,Star Movies Select HD
+http://195.201.82.32:5001/play/a005
+#EXTINF:-1,Tata Sky Hits
+http://195.201.82.32:5001/play/a009
+
+
+#EXTINF:-1,Comedy Central HD
+http://195.201.82.32:5001/play/a00e
+#EXTINF:-1,Colors Infinity HD
+http://195.201.82.32:5001/play/a00k
+#EXTINF:-1,MNX HD
+http://195.201.82.32:5001/play/a035
+#EXTINF:-1,Movies Now HD
+http://195.201.82.32:5001/play/a036
+#EXTINF:-1,Sony PIX HD
+http://195.201.82.32:5001/play/a02o
+#EXTINF:-1,UTV HD
+http://195.201.82.32:5001/play/a02p
+#EXTINF:-1,ID HD
+http://195.201.82.32:5001/play/a02q
+
+
+
+#EXTINF:-1,Discovery HD
+http://195.201.82.32:5001/play/a01n
+#EXTINF:-1,WILD HD
+http://195.201.82.32:5001/play/a01l
+#EXTINF:-1,National Geographic HD
+http://195.201.82.32:5001/play/a01r
+#EXTINF:-1,Sony BBC Earth HD
+http://195.201.82.32:5001/play/a01s
+#EXTINF:-1,MN+ HD
+http://195.201.82.32:5001/play/a039
+#EXTINF:-1,History TV 18 HD
+http://195.201.82.32:5001/play/a01t
+#EXTINF:-1,Fox Life HD
+http://195.201.82.32:5001/play/a01u
+
