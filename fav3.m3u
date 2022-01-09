@@ -1,5 +1,4 @@
-#EXTM3U url-tvg=""
-
+#EXTM3U
 #EXTINF:-1,Sun TV HD
 http://195.201.82.32:5001/play/a01o
 #EXTINF:-1, K TV HD
