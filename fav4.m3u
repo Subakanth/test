@@ -1,0 +1,196 @@
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Vijay HD" tvg-logo="" group-title="Tamil",Star Vijay HD
+http://58.27.219.166:8000/play/a0ds
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Vijay HD" tvg-logo="" group-title="Tamil",Star Vijay HD
+http://195.201.82.32:5001/play/a01j
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Vijay HD" tvg-logo="" group-title="Tamil",Star Vijay HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9216
+#EXTINF:-1 tvg-id="SunTvHD.in" tvg-name="Sun TV HD" tvg-logo="" group-title="Tamil",Sun TV HD
+http://58.27.219.166:8000/play/a0es
+#EXTINF:-1 tvg-id="SunTvHD.in" tvg-name="Sun TV HD" tvg-logo="" group-title="Tamil",Sun TV HD
+http://195.201.82.32:5001/play/a01o
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Music HD" tvg-logo="" group-title="Tamil",Sun Music HD
+http://195.201.82.32:5001/play/a01p
+
+#EXTINF:-1 tvg-id="KtvHD.in" tvg-name="KTV HD" tvg-logo="" group-title="Tamil",KTV HD
+http://195.201.82.32:5001/play/a01q
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Tamil HD" tvg-logo="" group-title="Tamil",Zee Tamil HD
+http://195.201.82.32:5001/play/a01k
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Tamil HD" tvg-logo="" group-title="Tamil",Zee Tamil HD
+http://58.27.219.166:8000/play/a0du
+#EXTINF:-1 tvg-id="ext" tvg-name="Colors Tamil HD" tvg-logo="" group-title="Tamil",Colors Tamil HD
+http://195.201.82.32:5001/play/a01v
+#EXTINF:-1 tvg-id="ext" tvg-name="Jaya Tv HD" tvg-logo="" group-title="Tamil",Jaya Tv HD
+http://195.201.82.32:5001/play/a01m
+
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet ENG HD" tvg-logo="" group-title="Tamil",Animal Planet ENG HD
+http://195.201.82.32:5001/play/a00a
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth Tamil HD" tvg-logo="" group-title="Tamil",BBC Earth Tamil HD
+http://195.201.82.32:5001/play/a01s
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery World Tamil HD" tvg-logo="" group-title="Tamil",Discovery World Tamil HD
+http://195.201.82.32:5001/play/a01n
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Life Tamil HD" tvg-logo="" group-title="Tamil",Fox Life Tamil HD
+http://195.201.82.32:5001/play/a01u
+#EXTINF:-1 tvg-id="ext" tvg-name="History Tamil HD" tvg-logo="" group-title="Tamil",History Tamil HD
+http://195.201.82.32:5001/play/a01t
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="& Flix Eng HD" tvg-logo="" group-title="English Movies",& Flix Eng HD
+http://195.201.82.32:5001/play/a001
+#EXTINF:-1 tvg-id="ext" tvg-name="& Flix Hindi HD" tvg-logo="" group-title="English Movies",& Flix Hindi HD
+http://195.201.82.32:5001/play/a02g
+#EXTINF:-1 tvg-id="ext" tvg-name="& Prive HD" tvg-logo="" group-title="English Movies",& Prive HD
+http://195.201.82.32:5001/play/a00j
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Pix HD" tvg-logo="" group-title="English Movies",Sony Pix HD
+http://195.201.82.32:5001/play/a02o
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Pix HD" tvg-logo="" group-title="English Movies",Sony Pix HD
+http://103.161.2.142/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Pix HD" tvg-logo="" group-title="English Movies",Sony Pix HD
+http://58.27.219.166:8000/play/a04t
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies HD" tvg-logo="" group-title="English Movies",Star Movies HD
+http://195.201.82.32:5001/play/a003
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies HD" tvg-logo="" group-title="English Movies",Star Movies HD
+http://103.161.2.142/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies HD" tvg-logo="" group-title="English Movies",Star Movies HD
+http://58.27.219.166:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Movies Select HD" tvg-logo="" group-title="English Movies",Star Movies Select HD
+http://195.201.82.32:5001/play/a005
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN] STAR MOVIES SELECT FHD" tvg-logo="" group-title="English Movies",[IN] STAR MOVIES SELECT FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9211
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth Eng HD" tvg-logo="" group-title="Infotainment",BBC Earth Eng HD
+http://195.201.82.32:5001/play/a00b
+#EXTINF:-1 tvg-id="InvestigationDiscoveryHD.us" tvg-name="Discovery ID HD" tvg-logo="" group-title="Infotainment",Discovery ID HD
+http://195.201.82.32:5001/play/a02q
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery World Eng HD" tvg-logo="" group-title="Infotainment",Discovery World Eng HD
+http://195.201.82.32:5001/play/a00i
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Life ENG HD" tvg-logo="" group-title="Infotainment",Fox Life ENG HD
+http://195.201.82.32:5001/play/a007
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo ENG HD" tvg-logo="" group-title="Infotainment",Nat Geo ENG HD
+http://195.201.82.32:5001/play/a008
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo Tamil HD" tvg-logo="" group-title="Infotainment",Nat Geo Tamil HD
+http://195.201.82.32:5001/play/a01r
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo WILD Eng HD" tvg-logo="" group-title="Infotainment",Nat Geo WILD Eng HD
+http://195.201.82.32:5001/play/a00f
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo Wild Tamil HD" tvg-logo="" group-title="Infotainment",Nat Geo Wild Tamil HD
+http://195.201.82.32:5001/play/a01l
+#EXTINF:-1 tvg-id="ext" tvg-name="Travel XP Eng HD" tvg-logo="" group-title="Infotainment",Travel XP Eng HD
+http://195.201.82.32:5001/play/a00l
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network+ HD" tvg-logo="" group-title="Kids",Cartoon Network+ HD
+http://195.201.82.32:5001/play/a03d
+#EXTINF:-1 tvg-id="ext" tvg-name="Nick+ HD" tvg-logo="" group-title="Kids",Nick+ HD
+http://195.201.82.32:5001/play/a033
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD" tvg-logo="" group-title="English Entertainment",Colors Infinity HD
+http://195.201.82.32:5001/play/a00k
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central HD" tvg-logo="" group-title="English Entertainment",Comedy Central HD
+http://195.201.82.32:5001/play/a00e
+#EXTINF:-1 tvg-id="ext" tvg-name="History Eng HD" tvg-logo="" group-title="English Entertainment",History Eng HD
+http://195.201.82.32:5001/play/a00c
+#EXTINF:-1 tvg-id="StarWorldHD.in" tvg-name="Star World HD" tvg-logo="" group-title="English Entertainment",Star World HD
+http://195.201.82.32:5001/play/a002
+#EXTINF:-1 tvg-id="StarWorldPremierHD.in" tvg-name="Star World Premier HD" tvg-logo="" group-title="English Entertainment",Star World Premier HD
+http://195.201.82.32:5001/play/a004
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC World Eng HD" tvg-logo="" group-title="English Entertainment",TLC World Eng HD
+http://195.201.82.32:5001/play/a00h
+#EXTINF:-1 tvg-id="ext" tvg-name="Tata Sky Hits HD" tvg-logo="" group-title="English Entertainment",Tata Sky Hits HD
+http://195.201.82.32:5001/play/a009
+
+
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EuroSports HD" tvg-logo="" group-title="Sports",EuroSports HD
+http://195.201.82.32:5001/play/a03b
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN]  IN STAR SPORTS 1 FHD" tvg-logo="" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9212
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN]  IN STAR SPORTS 1 FHD" tvg-logo="" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD
+http://58.27.219.166:8000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN]  IN STAR SPORTS 1 FHD HINDI" tvg-logo="" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD HINDI
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9213
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN] STAR SPORTS 2 FHD" tvg-logo="" group-title="Sports",[IN] STAR SPORTS 2 FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9214
+#EXTINF:-1 tvg-id="ext" tvg-name="[IN]  IN STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="Sports",[IN]  IN STAR SPORTS SELECT 2 HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9215
+#EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Sports",Star Sports 1 HD
+http://195.201.82.32:5001/play/a027
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="Sports",Star Sports 1 Hindi HD
+http://195.201.82.32:5001/play/a026
+#EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://195.201.82.32:5001/play/a024
+#EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
+http://58.27.219.166:8000/play/a05f
+#EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+http://195.201.82.32:5001/play/a02b
+#EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+http://58.27.219.166:8000/play/a04v
+#EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+http://195.201.82.32:5001/play/a02c
+#EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+http://58.27.219.166:8000/play/a04w
+#EXTINF:-1 tvg-id="ext" tvg-name="Ten 1 HD" tvg-logo="" group-title="Sports",Ten 1 HD
+http://195.201.82.32:5001/play/a031
+#EXTINF:-1 tvg-id="ext" tvg-name="Ten 2 HD" tvg-logo="" group-title="Sports",Ten 2 HD
+http://195.201.82.32:5001/play/a02u
+#EXTINF:-1 tvg-id="ext" tvg-name="Ten 3 HD" tvg-logo="" group-title="Sports",Ten 3 HD
+http://195.201.82.32:5001/play/a038
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Isaiyaruvi" tvg-logo="" group-title="Tamil Music",Isaiyaruvi
+http://14.199.164.20:4001/play/a0kj
+#EXTINF:-1 tvg-id="ext" tvg-name="Jaya Max" tvg-logo="" group-title="Tamil Music",Jaya Max
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9237
+#EXTINF:-1 tvg-id="ext" tvg-name="POLIMER NEWS" tvg-logo="" group-title="Tamil News",POLIMER NEWS
+http://14.199.164.20:4001/play/a0lg/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PUTHIYA THALAIMURAI" tvg-logo="" group-title="Tamil News",PUTHIYA THALAIMURAI
+http://14.199.164.20:4001/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NEWS7 TAMIL" tvg-logo="" group-title="Tamil News",NEWS7 TAMIL
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Tata Sky Theatre HD" tvg-logo="" group-title="Hindi",Tata Sky Theatre HD
+http://195.201.82.32:5001/play/a02j
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MK SIX" tvg-logo="" group-title="Tamil",MK SIX
+http://14.199.164.20:4001/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MK TELEVISION" tvg-logo="" group-title="Tamil",MK TELEVISION
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MK TUNES" tvg-logo="" group-title="Tamil",MK TUNES
+http://14.199.164.20:4001/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-id="Apple Digital" tvg-name="Apple Digital" tvg-logo="" group-title="Tamil",Apple Digital
+http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
+#EXTINF:-1 tvg-id="7 Star tv" tvg-name="7 Star Tv" tvg-logo="" group-title="Tamil",7 Star Tv
+http://51.79.158.179:1935/live/7star/mono.m3u8
+#EXTINF:-1 tvg-id="SS tv" tvg-name="SS tv" tvg-logo="" group-title="Tamil",SS tv
+http://51.79.158.179:1935/live/sstv2/mono.m3u8
+#EXTINF:-1 tvg-id="SD Media" tvg-name="SD Media" tvg-logo="" group-title="Tamil",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+#EXTINF:-1 tvg-id="Sana Tv" tvg-name="Sana TV" tvg-logo="" group-title="Tamil",Sana TV
+http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
+#EXTINF:-1 tvg-id="N Tv" tvg-name="N TV" tvg-logo="" group-title="Tamil",N TV
+http://51.79.158.179:1935/ntv/live/mono.m3u8
+#EXTINF:-1 tvg-id="Aarya Tv" tvg-name="Aarya TV" tvg-logo="" group-title="Tamil",Aarya TV
+http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
+#EXTINF:-1 tvg-id="VVN Tv" tvg-name="VVN TV" tvg-logo="" group-title="Tamil",VVN TV
+http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
+#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" tvg-logo="" group-title="Tamil",TTV
+http://51.79.207.150:1935/ttv/ttv/mono.m3u8
+#EXTINF:-1 tvg-id="SMS TV" tvg-name="SMS TV" tvg-logo="" group-title="Tamil",SMS TV
+http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
+#EXTINF:-1 tvg-id="Singam TV" tvg-name="Singam TV" tvg-logo="" group-title="Tamil",Singam TV
+http://51.79.207.150:1935/singamtv/singamtv/mono.m3u8
+#EXTINF:-1 tvg-id="Abinaya TV" tvg-name="Abinaya TV" tvg-logo="" group-title="Tamil",Abinaya TV
+http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
+#EXTINF:-1 tvg-id="Kalai Isai" tvg-name="Kalai Isai" tvg-logo="" group-title="Tamil",Kalai Isai
+http://51.79.207.150:1935/kalai/kalaiisai/mono.m3u8
+#EXTINF:-1 tvg-id="Bonus HD" tvg-name="Bonus HD" tvg-logo="" group-title="Tamil",Bonus HD
+http://51.79.207.150:1935/bonushd/bonushd/mono.m3u8
+#EXTINF:-1 tvg-id="Sana Plus HD" tvg-name="Sana Plus HD" tvg-logo="" group-title="Tamil",Sana Plus HD
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+#EXTINF:-1 tvg-id="Ram TV HD" tvg-name="Ram TV HD" tvg-logo="" group-title="Tamil",Ram TV HD
+http://51.79.158.179:1935/harimedia/live5/mono.m3u8
+#EXTINF:-1 tvg-id="Hari TV HD" tvg-name="Hari TV HD" tvg-logo="" group-title="Tamil",Hari TV HD
+http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
+#EXTINF:-1 tvg-id="Anu TV" tvg-name="Anu TV" tvg-logo="" group-title="Tamil",Anu TV
+http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+
